@@ -22,11 +22,11 @@
 
 | Code | Service line | Scope |
 |---|---|---|
-| `TRX-01` | **Electrical & Power** | HV systems 22 / 33 / 115 kV, transformers, switchgear and RMU, lightning protection and earthing, MDB / DB panels, inspection and certification |
-| `TRX-02` | **Solar & Renewable** | Rooftop, carport and solar farm EPC, hybrid and battery storage, PV layout and yield design, PPA and utility interconnection, monitoring and annual O&M |
-| `TRX-03` | **Automation & Software** | PLC, SCADA and HMI, IoT gateways and edge computing, real-time monitoring dashboards, data analytics and reporting, building management systems |
-| `TRX-04` | **Construction & Civil** | Commercial, industrial and residential buildings, factories and warehouses, roads and bridges, interior, exterior and landscape works, renovation |
-| `TRX-05` | **Trading & Supply** | Construction materials, HV and LV electrical equipment, solar equipment, fire alarm, CCTV and access control, technical machinery |
+| TRX&#8209;01 | **Electrical & Power** | HV systems 22 / 33 / 115 kV, transformers, switchgear and RMU, lightning protection and earthing, MDB / DB panels, inspection and certification |
+| TRX&#8209;02 | **Solar & Renewable** | Rooftop, carport and solar farm EPC, hybrid and battery storage, PV layout and yield design, PPA and utility interconnection, monitoring and annual O&M |
+| TRX&#8209;03 | **Automation & Software** | PLC, SCADA and HMI, IoT gateways and edge computing, real-time monitoring dashboards, data analytics and reporting, building management systems |
+| TRX&#8209;04 | **Construction & Civil** | Commercial, industrial and residential buildings, factories and warehouses, roads and bridges, interior, exterior and landscape works, renovation |
+| TRX&#8209;05 | **Trading & Supply** | Construction materials, HV and LV electrical equipment, solar equipment, fire alarm, CCTV and access control, technical machinery |
 
 ## Engineering software
 

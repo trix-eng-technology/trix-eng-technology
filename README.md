@@ -30,10 +30,17 @@
 
 ## Engineering software
 
-| Product | What it does |
-|---|---|
-| **TRIX Monitoring** | Time-series platform for solar, power and IoT assets: live dashboards, alerts, customer portal, signed over-the-air updates |
-| **[TRIX Deye Gateway](https://github.com/trix-eng-technology/deye-gateway-firmware)** | ESP32-S3 gateway that reads Deye hybrid inverters over RS485 and reports to TRIX over MQTT with TLS |
+**TRIX Monitoring** is our time-series platform for solar, power and IoT assets: live dashboards, alerts, a customer portal and signed over-the-air updates.
+
+**TRIX Node** is our family of field devices that report to TRIX Monitoring over MQTT with TLS, all on one protocol (`trix-node/1`) with zero-touch commissioning and remote updates.
+
+| Model | Product | Measures or controls | Status |
+|---|---|---|---|
+| TN&#8209;INV | **[TRIX Node Inverter](https://github.com/trix-eng-technology/trix-node-inverter)** | Hybrid solar inverters over RS485 (Deye supported) | In production |
+| TN&#8209;CLM | TRIX Node Climate | Temperature and humidity | Planned |
+| TN&#8209;WX | TRIX Node Weather | Weather station: wind, rain, irradiance | Planned |
+| TN&#8209;MTR | TRIX Node Meter | Electrical metering | Planned |
+| TN&#8209;IO | TRIX Node Control | Relay outputs and digital inputs | Planned |
 
 ## How we work
 

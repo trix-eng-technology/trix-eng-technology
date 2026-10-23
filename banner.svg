@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="TRIX Engineering and Technology. Engineering Precision. Modern Software.">
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#14304d" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f97316" stop-opacity="0.22"/>
+      <stop offset="0.55" stop-color="#f97316" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="360" fill="#061829"/>
+  <rect width="1280" height="360" fill="url(#grid)"/>
+  <rect width="1280" height="360" fill="url(#glow)"/>
+  <rect x="0" y="0" width="1280" height="4" fill="#f97316"/>
+  <g font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="2" fill="#94a3b8">
+    <text x="64" y="58" fill="#f97316">TRX-00</text>
+    <text x="140" y="58">SPEC SHEET  /  REV. 2026</text>
+    <text x="1216" y="58" text-anchor="end">N 18°47′  E 98°59′</text>
+  </g>
+  <line x1="64" y1="76" x2="1216" y2="76" stroke="#2a3e5f"/>
+  <text x="58" y="208" font-family="Georgia, 'Times New Roman', serif" font-size="132" font-weight="700" fill="#ffffff" letter-spacing="-4">TRIX</text>
+  <rect x="64" y="228" width="72" height="4" fill="#f97316"/>
+  <text x="64" y="270" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#ffffff">Engineering Precision. <tspan fill="#fb923c">Modern Software.</tspan></text>
+  <text x="64" y="304" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="3" fill="#94a3b8">HEAVY ENGINEERING × MODERN SOFTWARE</text>
+  <g font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1.5">
+    <line x1="760" y1="112" x2="760" y2="300" stroke="#2a3e5f"/>
+    <g fill="#64748b">
+      <text x="792" y="128">COMPANY</text>
+      <text x="792" y="164">DOMAINS</text>
+      <text x="792" y="200">COVERAGE</text>
+      <text x="792" y="236">STANDARDS</text>
+      <text x="792" y="272">BASE</text>
+    </g>
+    <g fill="#e2e8f0">
+      <text x="912" y="128">Trix Engineering and Technology</text>
+      <text x="912" y="164">Power · Solar · Automation</text>
+      <text x="912" y="200">Construction · Supply</text>
+      <text x="912" y="236">ISO 9001 · IEC · TIS</text>
+      <text x="912" y="272">Chiang Mai, Thailand</text>
+    </g>
+    <g stroke="#14304d"><line x1="792" y1="142" x2="1216" y2="142"/><line x1="792" y1="178" x2="1216" y2="178"/><line x1="792" y1="214" x2="1216" y2="214"/><line x1="792" y1="250" x2="1216" y2="250"/></g>
+  </g>
+  <text x="1216" y="330" text-anchor="end" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2" fill="#2a3e5f">TRIX.TECHNOLOGY</text>
+</svg>
